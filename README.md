@@ -36,4 +36,18 @@ para criar um arquivo react, deve escrever isso no terminal:
 vai ter um index.html -> o react tem uma aplicação SPA(Single Page Application)
 essa SPA-> ela contem somente o html sem nada e o conteudo so é inserido por JavaScript! 
 
-va para a main.js
+va para a main.jsx -> precisa ter imports!para poder funcionar
+-- createRoot: agente chama um (document.getElementByUd("root")).render( -> a gente vai renderizar esse documento
+    <StricMode>
+    <App />
+    </StrictMode>
+)
+
+** para renderizar um componente precisa que a primeira letra seja maiuscula
+** vc já abre fechando a tag n <tag /> <- assim
+
+
+
+# App,jsx
+criar uma função quye vira um componente!!
+
