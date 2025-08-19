@@ -51,3 +51,7 @@ va para a main.jsx -> precisa ter imports!para poder funcionar
 # App,jsx
 criar uma função quye vira um componente!!
 
+
+
+
+https://ui.shadcn.com/blocks
