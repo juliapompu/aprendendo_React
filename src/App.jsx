@@ -1,21 +1,31 @@
-import { useState } from 'react'
-import appLogo from './assets/ElasNoJogo.jpg'
-import './App.css'
+// function App(){
+//   let message = "Olá Mundo!";
+//   return(
+//     <div>
+//       <h1>{message}</h1>
 
-function App() {
-  const [count, setCount] = useState(0)
 
-  return (
-    <>
+//       <button>Muda mensagem</button>
+//     </div>
+//   )
+// }
 
-      <h1>Hello World </h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+//export default App;
+
+//states
+function App(){
+  let message = "Olá Mundo!";
+  return(
+    <div>
+      <h1>{message}</h1>
+
+     <button onClick={{() => {
+        message = "Olá foi mudado!";
+        }>
+        Muda mensagem
         </button>
-      </div>
-    </>
-  )
-}
+    </div>
+   )
+ }
 
 export default App
