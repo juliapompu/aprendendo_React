@@ -68,3 +68,5 @@ criar uma função quye vira um componente!!
 
 
 https://ui.shadcn.com/blocks
+
+-- estilo de organização igual os trabalhos de html
