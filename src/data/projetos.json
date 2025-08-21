@@ -1,0 +1,17 @@
+[
+  {
+    "titulo": "Campanha Mulheres em Campo",
+    "descricao": "Iniciativa para incentivar meninas a praticar futebol desde cedo.",
+    "imagem": "/assets/projeto1.jpg"
+  },
+  {
+    "titulo": "Treinadoras do Futuro",
+    "descricao": "Programa de formação de mulheres para cargos de liderança no esporte.",
+    "imagem": "/assets/projeto2.jpg"
+  },
+  {
+    "titulo": "Histórias de Superação",
+    "descricao": "Série de entrevistas com jogadoras que marcaram o futebol feminino.",
+    "imagem": "/assets/projeto3.jpg"
+  }
+]
