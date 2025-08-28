@@ -70,3 +70,14 @@ criar uma função quye vira um componente!!
 https://ui.shadcn.com/blocks
 
 -- estilo de organização igual os trabalhos de html
+
+
+----
+
+https://www.thesports.com/pt/coverage/info#sport_id=1 ->paga
+https://www.api-futebol.com.br/ -> paga 
+https://pt.betsapi.com/l/9341/Womens-Copa-America -> so campeonatos mundiais
+https://www.api-football.com/widgets ->parece ser grátis mas acho que so tem futebol masculino
+https://github.com/kariofreire/api-futebol-brasileiro -> futebol masculino tb
+
+
